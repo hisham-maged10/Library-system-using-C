@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="project tgroba" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/project tgroba" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/project tgroba" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Admin Functions.h" />
+		<Unit filename="Books Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Books Functions.h" />
+		<Unit filename="Borrows Functions.h" />
+		<Unit filename="Exit Functions.h" />
+		<Unit filename="Global Variables.h" />
+		<Unit filename="Loadinfo.h" />
+		<Unit filename="Members Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Members Functions.h" />
+		<Unit filename="Menu Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menu Functions.h" />
+		<Unit filename="Save Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Save Functions.h" />
+		<Unit filename="Searchfunctions.h" />
+		<Unit filename="Structs.h" />
+		<Unit filename="Validation Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="borrows functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="interface functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="notes and definitions" />
+		<Unit filename="print functions.h" />
+		<Unit filename="validation functions.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

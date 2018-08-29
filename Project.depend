@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1514198242 source:e:\programming\c\try it out\project done\books functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514015078 e:\programming\c\try it out\project done\structs.h
+
+1514016084 e:\programming\c\try it out\project done\menu functions.h
+
+1514016084 e:\programming\c\try it out\project done\books functions.h
+
+1514016083 e:\programming\c\try it out\project done\members functions.h
+
+1514016084 e:\programming\c\try it out\project done\searchfunctions.h
+
+1514016084 e:\programming\c\try it out\project done\borrows functions.h
+
+1514016084 e:\programming\c\try it out\project done\admin functions.h
+
+1514016084 e:\programming\c\try it out\project done\exit functions.h
+
+1514016083 e:\programming\c\try it out\project done\print functions.h
+
+1514016083 e:\programming\c\try it out\project done\validation functions.h
+
+1514016084 e:\programming\c\try it out\project done\save functions.h
+
+1514016084 e:\programming\c\try it out\project done\loadinfo.h
+
+1514203057 source:e:\programming\c\try it out\project done\borrows functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514021724 source:e:\programming\c\try it out\project done\interface functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1514021723 source:e:\programming\c\try it out\project done\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Global Variables.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514125179 e:\programming\c\try it out\project done\global variables.h
+
+1514199711 source:e:\programming\c\try it out\project done\members functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514163838 source:e:\programming\c\try it out\project done\menu functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+
+1514199131 source:e:\programming\c\try it out\project done\save functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514145790 source:e:\programming\c\try it out\project done\validation functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+	<ctype.h>
+

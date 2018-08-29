@@ -1,0 +1,492 @@
+# depslib dependency file v1.0
+1514021723 source:e:\try it out\project tgroba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Global Variables.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514057113 source:e:\try it out\project tgroba\books functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514015078 e:\try it out\project tgroba\structs.h
+
+1514055131 e:\try it out\project tgroba\global variables.h
+
+1514016084 e:\try it out\project tgroba\menu functions.h
+
+1514016084 e:\try it out\project tgroba\books functions.h
+
+1514016083 e:\try it out\project tgroba\members functions.h
+
+1514016084 e:\try it out\project tgroba\searchfunctions.h
+
+1514016084 e:\try it out\project tgroba\borrows functions.h
+
+1514016083 e:\try it out\project tgroba\print functions.h
+
+1514016083 e:\try it out\project tgroba\validation functions.h
+
+1514016084 e:\try it out\project tgroba\save functions.h
+
+1514016084 e:\try it out\project tgroba\loadinfo.h
+
+1514016084 e:\try it out\project tgroba\admin functions.h
+
+1514016084 e:\try it out\project tgroba\exit functions.h
+
+1514056261 source:e:\try it out\project tgroba\members functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514057718 source:e:\try it out\project tgroba\borrows functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514055519 source:e:\try it out\project tgroba\save functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514020683 source:e:\try it out\project tgroba\validation functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514057855 source:e:\try it out\project tgroba\menu functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+
+1514021724 source:e:\try it out\project tgroba\interface functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1514198242 source:e:\try it out\project\books functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514015078 e:\try it out\project\structs.h
+
+1514016084 e:\try it out\project\menu functions.h
+
+1514016084 e:\try it out\project\books functions.h
+
+1514016083 e:\try it out\project\members functions.h
+
+1514016084 e:\try it out\project\searchfunctions.h
+
+1514016084 e:\try it out\project\borrows functions.h
+
+1514016084 e:\try it out\project\admin functions.h
+
+1514016084 e:\try it out\project\exit functions.h
+
+1514016083 e:\try it out\project\print functions.h
+
+1514016083 e:\try it out\project\validation functions.h
+
+1514016084 e:\try it out\project\save functions.h
+
+1514016084 e:\try it out\project\loadinfo.h
+
+1514203057 source:e:\try it out\project\borrows functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514021724 source:e:\try it out\project\interface functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1514021723 source:e:\try it out\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Global Variables.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514125179 e:\try it out\project\global variables.h
+
+1514199711 source:e:\try it out\project\members functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514163838 source:e:\try it out\project\menu functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+
+1514199131 source:e:\try it out\project\save functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514145790 source:e:\try it out\project\validation functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+	<ctype.h>
+
+1514198242 source:e:\try it out\project done\books functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514015078 e:\try it out\project done\structs.h
+
+1514016084 e:\try it out\project done\menu functions.h
+
+1514016084 e:\try it out\project done\books functions.h
+
+1514016083 e:\try it out\project done\members functions.h
+
+1514016084 e:\try it out\project done\searchfunctions.h
+
+1514016084 e:\try it out\project done\borrows functions.h
+
+1514016084 e:\try it out\project done\admin functions.h
+
+1514016084 e:\try it out\project done\exit functions.h
+
+1514016083 e:\try it out\project done\print functions.h
+
+1514016083 e:\try it out\project done\validation functions.h
+
+1514016084 e:\try it out\project done\save functions.h
+
+1514016084 e:\try it out\project done\loadinfo.h
+
+1514203057 source:e:\try it out\project done\borrows functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514021724 source:e:\try it out\project done\interface functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1514021723 source:e:\try it out\project done\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Global Variables.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514125179 e:\try it out\project done\global variables.h
+
+1514199711 source:e:\try it out\project done\members functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514163838 source:e:\try it out\project done\menu functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+
+1514199131 source:e:\try it out\project done\save functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+
+1514145790 source:e:\try it out\project done\validation functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menu Functions.h"
+	"Books Functions.h"
+	"Members Functions.h"
+	"searchfunctions.h"
+	"borrows Functions.h"
+	"Admin Functions.h"
+	"Exit functions.h"
+	"print functions.h"
+	"validation functions.h"
+	"save functions.h"
+	"Loadinfo.h"
+	<ctype.h>
+

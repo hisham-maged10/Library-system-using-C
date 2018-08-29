@@ -1,0 +1,210 @@
+/*struct tm {
+   int tm_sec;         /* seconds,  range 0 to 59
+   int tm_min;         /* minutes, range 0 to 59
+   int tm_hour;        /* hours, range 0 to 23
+   int tm_mday;        /* day of the month, range 1 to 31
+   int tm_mon;         /* month, range 0 to 11
+   int tm_year;        /* The number of years since 1900
+   int tm_wday;        /* day of the week, range 0 to 6
+   int tm_yday;        /* day in the year, range 0 to 365
+   int tm_isdst;       /* daylight saving time
+};*/
+
+//#define STD_OUTPUT_HANDLE (DWORD)(0xfffffff5)
+
+/*typedef struct _COORD {
+  short X;
+  short Y;
+}COORD;*/
+// Password is propertyofhisham
+
+/*mytime->tm_mday+1;
+mytime->tm_mon;
+mytime->tm_yday+1900;
+*/
+/*
+Functions completed
+--------------------
+add a book (done)
+Remove a book (done)
+search a book by isbn (done)
+add a member(done)
+remove a member (done)
+main menu (done)
+book management menu(done)
+search menu(done)
+add book menu(done)
+delete book menu (done)
+register a new member menu (done)
+save menu (done)
+exit without save menu (done)
+exit without save function (done)
+load books from file at start(done)
+load members from file at start (done)
+exit menu (done))
+member management menu (done)
+borrow management menu (done)
+administrative actions menu (done)
+exit with saving menu (done)
+position function (done))
+readbooks function (done)
+writebooks function (done)
+readmembers function (done)
+writemembers function (done)
+readborrows function (done)
+writeborrows function (done)
+search by author (done)
+search by category (done)
+print all members (done)
+print all books (done)
+checkisbnindex (done)
+checkidindex (done)
+borrow(done)
+time function(done)
+loadborrowinfo (done)
+return (done)
+add copy (done)
+search by title (done)
+overdue books (done)
+most popular books (done)
+---------------------------
+bayz
+---------
+check al borrowcounter lel user bayz
+need to check if the avail no.decreases
+need to check remove books, remove members ,return book
+-------------------------------
+Validation
+-----------
+numbers validation
+multisearch function
+
+Babkockdood, the reply above pulled directly from the manual for strcmp explains it all.
+Let str1 and str2 be strings.
+If str1 < str2, return < 0.
+If str1 == str2, return 0.
+If str1 > str2, return > 0.
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main()
+{
+    int a=54325;
+    char buffer[20];
+    itoa(a,buffer,2);   // here 2 means binary
+    printf("Binary value = %s\n", buffer);
+
+    itoa(a,buffer,10);   // here 10 means decimal
+    printf("Decimal value = %s\n", buffer);
+
+    itoa(a,buffer,16);   // here 16 means Hexadecimal
+    printf("Hexadecimal value = %s\n", buffer);
+    return 0;
+}
+ITOA () FUNCTION OUTPUT:
+Binary value = 1101010000110101
+Decimal value = 54325
+Hexadecimal value = D435
+------------
+void swap(int *xp, int *yp)
+{
+    int temp = *xp;
+    *xp = *yp;
+    *yp = temp;
+}
+
+// A function to implement bubble sort
+void bubbleSort(int arr[], int n)
+{
+   int i, j;
+   for (i = 0; i < n-1; i++)
+
+       // Last i elements are already in place
+       for (j = 0; j < n-i-1; j++)
+           if (arr[j] > arr[j+1])
+              swap(&arr[j], &arr[j+1]);
+}
+{
+int arr[] = {64, 34, 25, 12, 22, 11, 90};
+    int n = sizeof(arr)/sizeof(arr[0]);
+    bubbleSort(arr, n);
+    printf("Sorted array: \n");
+    printArray(arr, n);
+    return 0;
+}
+/*
+ * C Program to Append the Content of File at the end of Another
+#include <stdio.h>
+#include <stdlib.h>
+
+main()
+{
+    FILE *fsring1, *fsring2, *ftemp;
+    char ch, file1[20], file2[20], file3[20];
+
+    printf("Enter name of first file ");
+    gets(file1);
+    printf("Enter name of second file ");
+    gets(file2);
+    printf("Enter name to store merged file ");
+    gets(file3);
+    fsring1 = fopen(file1, "r");
+    fsring2 = fopen(file2, "r");
+    if (fsring1 == NULL || fsring2 == NULL)
+    {
+        perror("Error has occured");
+        printf("Press any key to exit...\n");
+        exit(EXIT_FAILURE);
+    }
+    ftemp = fopen(file3, "w");
+    if (ftemp == NULL)
+    {
+        perror("Error has occures");
+        printf("Press any key to exit...\n");
+        exit(EXIT_FAILURE);
+    }
+    while ((ch = fgetc(fsring1)) != EOF)
+        fputc(ch, ftemp);
+    while ((ch = fgetc(fsring2) ) != EOF)
+        fputc(ch, ftemp);
+    printf("Two files merged  %s successfully.\n", file3);
+    fclose(fsring1);
+    fclose(fsring2);
+    fclose(ftemp);
+    return 0;
+}
+isalpha()
+This function returns non-zero value if c is an alphabet, else it returns 0.
+do {
+    printf("please enter four digit");
+    scanf("%d", &number);
+    if(number >=1000 && number<= 9999)
+       break;
+} while(1);
+/*while(getchar()!=EOF)
+ means it will loop each step until cntrl+z is pressed and entered in windows
+ \a	Bell (alert)
+\b	Backspace
+\f	Formfeed
+\n	New line
+\r	Carriage return
+\t	Horizontal tab
+\v	Vertical tab
+\'	Single quotation mark
+\"	Double quotation mark
+\\	Backslash
+\?	Literal question mark
+\ ooo	ASCII character in octal notation
+\x hh	ASCII character in hexadecimal notation
+\x hhhh	Unicode character in hexadecimal notation if this escape sequence is used in a wide-character constant or a Unicode string literal.
+
+For example, WCHAR f = L'\x4e00' or WCHAR b[] = L"The Chinese character for one is \x4e00".
+
+
+
+
+--------------------------------------------------------------------------------------------------
+All functions checked
+Project>> Done!!
+*/

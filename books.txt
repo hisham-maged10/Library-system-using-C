@@ -1,0 +1,5 @@
+C How to Program,Paul Deitel,Pearson Education .Inc,0-13-612356-2,29/10/2009,5,3,10,programming
+Simply Visual Basic.Net 2003,Paul Deitel,Pretince Hall,0131785885,21/5/2004,10,9,1,Programming
+Digital Photography Made Easy,Ivan Hissey,Grange Books,1840139285,15/9/2009,16,15,1,Photography
+Finite Mathematics & Its Applications,Schneider,Pearson Custom,0558203841,20/12/2007,4,3,1,Mathematics
+The Case for Legalizing Drugs,Richard Miller,ABC-CLIO.LLC,0275934594,11/8/2008,28,28,0,Pharmacy

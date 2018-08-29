@@ -1,0 +1,3 @@
+Hamdy,Ahmed,95314,35.Shatby.Alexandria,0123456789,26,0,ahmed@gmail.com
+ramadan,mohamed,4750,22.roshdy.alexandria,01224563789,20,3,rmdan@gmail.com
+Maged,Hisham,4725,22.Smouha.Alexandria,01228961190,19,0,Hisham.maged10@gmail.com
