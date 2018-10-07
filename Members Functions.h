@@ -1,3 +1,8 @@
+/**
+ * @author ${hisham_maged10}
+ *https://github.com/hisham-maged10
+ * ${DesktopApps}
+ */
 #ifndef MEMBERS_FUNCTIONS_H_INCLUDED
 #define MEMBERS_FUNCTIONS_H_INCLUDED
 
