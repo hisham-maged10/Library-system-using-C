@@ -1,3 +1,8 @@
+/**
+ * @author ${hisham_maged10}
+ *https://github.com/hisham-maged10
+ * ${DesktopApps}
+ */
 #ifndef MENU_FUNCTIONS_H_INCLUDED
 #define MENU_FUNCTIONS_H_INCLUDED
 void mainmenu();
